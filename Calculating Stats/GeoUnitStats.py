@@ -32,7 +32,7 @@ Output data: three shapefiles
 
 The program must be executed in "QGIS Desktop" Python Console.
 0. Install QGIS
-1. Open QGIS Desktop with GRASS 
+1. Open QGIS Desktop 
 	The code was developed in QGIS Desktop 3.6.2 in Windows 10
 2. Install the NNJoin plugin
 	Click on Plugins --> Manage and Install Plugins --> search for NNjoin and install
