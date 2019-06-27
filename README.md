@@ -3,14 +3,14 @@ This repository is Capstone project of Open datasets of Buildings in collaborati
 
 Our presentation slides is on https://www.dropbox.com/sh/6sxkhbjhwc1mhof/AAB_n2t7CYAO8_rKuaamnXXia?dl=0
 
-## Logs
-This folder contains 10-week group and individual work logs, decribing the process of the project.
-
 ## Calculatig Stats
+Calculation of Building Density, Building Coverage Ratio, Average Size, Mean Proximity and Contiguity
 
 ## Urban Clusters
+Codes and implementation of Urban CLuster on QGIS
 
 ## Classification
+Classification based on the 5 building statistics. The classification has been done for Regina and Fredericton.
 
 ## Visualization
 This folder contains the Python code for visualizations and corresponding output files
