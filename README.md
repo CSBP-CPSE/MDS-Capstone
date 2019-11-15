@@ -1,6 +1,8 @@
 # Data 599 - Capstone
 This repository is Capstone project of Open database of Buildings in collaboration with Statistics Canada.
 
+Project information on Statistics Canada website https://www.statcan.gc.ca/eng/lode/collaborations
+
 Our presentation slides is on https://www.dropbox.com/sh/6sxkhbjhwc1mhof/AAB_n2t7CYAO8_rKuaamnXXia?dl=0
 
 ## Calculatig Stats
